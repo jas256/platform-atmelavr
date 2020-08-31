@@ -37,7 +37,9 @@
     "simavr_target": "atmega32u4"
   },
   "frameworks": [
-    "arduino"
+    "arduino",
+    "pio-arduino-modded-rocket-recorder",
+    "framework-arduino-avr"
   ],
   "name": "UTS Rocketry Project Bird",
   "upload": {
