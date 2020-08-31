@@ -38,7 +38,7 @@
   },
   "frameworks": [
     "arduino",
-    "pio-arduino-modded-rocket-recorder",
+    "https://github.com/jas256/pio-arduino-modded-rocket-recorder.git",
     "framework-arduino-avr"
   ],
   "name": "UTS Rocketry Project Bird",
